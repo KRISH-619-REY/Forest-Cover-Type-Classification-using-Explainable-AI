@@ -1,0 +1,19 @@
+# Large datasets
+covertype_raw.csv
+covtype.data
+*.data
+
+# Large explainer file
+lightgbm_shap_explainer.pkl
+
+# Auto-generated folders
+catboost_info/
+__pycache__/
+.ipynb_checkpoints/
+
+# Environments and system files
+.env
+venv/
+*.pyc
+.DS_Store
+Thumbs.db

@@ -1,0 +1,2 @@
+Model,Variant,Validation Macro F1,Test Accuracy,Test Macro Precision,Test Macro Recall,Test Macro F1,Test Weighted F1
+LightGBM,Balanced + Tuned,0.9236,0.9440634062803887,0.9031371020944474,0.9522673668273118,0.9260717588358446,0.9442354252225327
